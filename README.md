@@ -18,7 +18,7 @@ know whether this package might be useful for them.
 
 TODO: List what your package can do. Maybe include images, gifs, or videos.
 
-image.png
+![image](https://user-images.githubusercontent.com/26992726/169668186-a02013cb-6412-43c9-a8e3-cdad9c115991.png)
 ## Getting started
 
 TODO: List prerequisites and provide or point to information on how to
