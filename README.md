@@ -31,7 +31,7 @@ start using the package.
 
 ## Usage
 
-```flutter
+```dart
 import 'package:flutter/material.dart';
 import 'package:window_style_dropdown_menu/window_style_dropdown_menu.dart';
 
