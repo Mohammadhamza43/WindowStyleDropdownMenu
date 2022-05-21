@@ -12,7 +12,7 @@ and the Flutter guide for
 -->
 ## Introduction
 
-The package is inspired by window presentation form design toolbar. It will open the dropdown menu on hover, you can also use it where you want your dropdown to open when user hover there mouse, It will show and hide dropdown menu when mouse enter or leave the widget.
+The package is inspired by the window presentation form design toolbar. It will open the dropdown menu on hover, you can also use it where you want your dropdown to open when the user hovers their mouse, It will show and hide the dropdown menu when mouse enters or leave the widget.
 
 ## Features
 
@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/26992726/169668343-0b7332dc-04fc-4b03-
 flutter pub get window_style_dropdown_menu
 ```
 
-**1.** Import **window_style_dropdown_menu** in your main.dart file:
+**2.** Import **window_style_dropdown_menu** in your main.dart file:
 ```bash
 import 'package:window_style_dropdown_menu/window_style_dropdown_menu.dart';
 ```
