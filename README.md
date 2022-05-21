@@ -16,9 +16,13 @@ know whether this package might be useful for them.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+1. Show/hide dropdown menu on hover.
+2. Customize your design with respect to you theme
 
-![image](https://user-images.githubusercontent.com/26992726/169668186-a02013cb-6412-43c9-a8e3-cdad9c115991.png)
+Example
+
+![image](https://user-images.githubusercontent.com/26992726/169668224-8175ae0e-466e-419d-8fac-f27b496d7b24.png)
+
 ## Getting started
 
 TODO: List prerequisites and provide or point to information on how to
