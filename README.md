@@ -11,8 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+The package is inspired by window presentation form design toolbar. It will open the dropdown menu on hover, you can also use it where you want your dropdown to open when user hover there mouse, It will show and hide dropdown menu when mouse enter or leave the widget.
 
 ## Features
 
