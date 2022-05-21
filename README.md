@@ -32,7 +32,7 @@ start using the package.
 
 ## Usage
 
-import 'package:flutter/material.dart';
+```import 'package:flutter/material.dart';
 import 'package:window_style_dropdown_menu/window_style_dropdown_menu.dart';
 
 void main() {
@@ -208,7 +208,7 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-
+```
 
 ## Additional information
 
