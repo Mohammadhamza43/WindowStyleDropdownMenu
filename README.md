@@ -21,7 +21,10 @@ The package is inspired by the window presentation form design toolbar. It will 
 
 Example
 
-https://user-images.githubusercontent.com/26992726/169668343-0b7332dc-04fc-4b03-8a48-0046ae8f126f.mp4
+<!-- https://user-images.githubusercontent.com/26992726/169668343-0b7332dc-04fc-4b03-8a48-0046ae8f126f.mp4 -->
+
+![example](https://user-images.githubusercontent.com/26992726/169691894-197bbe96-e519-4c06-a595-41a912dd6386.gif)
+
 
 ![image](https://user-images.githubusercontent.com/26992726/169668224-8175ae0e-466e-419d-8fac-f27b496d7b24.png)
 
